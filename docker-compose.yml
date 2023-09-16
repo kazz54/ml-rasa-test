@@ -1,0 +1,39 @@
+version: '3'
+services:
+
+  redis:
+    build: ./backend/redis
+    container_name: cache
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./backend/redis:/opt/redis 
+  web:
+    build: ./backend/web
+    ports:
+      - 3000-3003:3000-3003
+      - 7000-7003:7000-7003            
+    volumes:
+      - ./backend/web:/web  
+  
+      
+  ai:
+    build: ./backend/ai
+    ports:
+      - "5055:5055"
+      - "5005:5005"
+      - "5006:5006"
+      - "5002:5002"
+      - "5000:5000"
+      - "8888:8888"
+    
+    depends_on:
+      - duckling 
+      - redis   
+    volumes:
+      - ./backend/ai:/ai
+
+  duckling:
+    image: rasa/duckling
+    ports:
+      - "8000:8000"
