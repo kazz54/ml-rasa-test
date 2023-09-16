@@ -1,0 +1,45 @@
+2023-09-16 09:31:31,708 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-16 09:31:31,709 INFO supervisord started with pid 1
+2023-09-16 09:31:32,711 INFO spawned: 'sshd' with pid 9
+2023-09-16 09:31:32,712 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 09:31:33,713 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-16 09:31:33,713 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 09:31:35,716 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 09:31:38,719 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 09:31:38,719 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-16 10:13:40,341 WARN received SIGTERM indicating exit request
+2023-09-16 10:13:40,341 INFO waiting for sshd to die
+2023-09-16 10:13:41,343 INFO stopped: sshd (exit status 0)
+2023-09-16 11:34:08,898 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-16 11:34:08,900 INFO supervisord started with pid 1
+2023-09-16 11:34:09,902 INFO spawned: 'sshd' with pid 8
+2023-09-16 11:34:09,903 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:34:10,904 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-16 11:34:10,904 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:34:12,906 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:34:15,910 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:34:15,910 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-16 11:38:40,303 WARN received SIGTERM indicating exit request
+2023-09-16 11:38:40,303 INFO waiting for sshd to die
+2023-09-16 11:38:41,305 INFO stopped: sshd (exit status 0)
+2023-09-16 11:39:38,160 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-16 11:39:38,161 INFO supervisord started with pid 1
+2023-09-16 11:39:39,163 INFO spawned: 'sshd' with pid 8
+2023-09-16 11:39:39,163 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:39:40,165 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-16 11:39:40,165 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:39:42,167 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:39:45,171 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:39:45,171 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-16 11:40:17,088 WARN received SIGTERM indicating exit request
+2023-09-16 11:40:17,089 INFO waiting for sshd to die
+2023-09-16 11:40:18,090 INFO stopped: sshd (exit status 0)
+2023-09-16 11:46:31,725 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-16 11:46:31,728 INFO supervisord started with pid 1
+2023-09-16 11:46:32,730 INFO spawned: 'sshd' with pid 10
+2023-09-16 11:46:32,730 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:46:33,732 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-16 11:46:33,732 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:46:35,734 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:46:38,737 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-16 11:46:38,737 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
