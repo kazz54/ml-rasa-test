@@ -1,0 +1,18 @@
+{
+  
+    "customizations": {
+      "vscode": {
+        "extensions": [
+			"dbaeumer.vscode-eslint",
+			"GitHub.remotehub",
+			"blono.git-commit-and-push",
+			"esbenp.prettier-vscode",
+			"ms-azuretools.vscode-docker",
+			"formulahendry.docker-explorer",
+			"ms-python.python"
+		]
+      }
+    }
+  
+   // "forwardPorts": [3000]
+  }

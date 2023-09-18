@@ -43,3 +43,93 @@
 2023-09-16 11:46:35,734 INFO spawnerr: can't find command '/usr/sbin/apachectl'
 2023-09-16 11:46:38,737 INFO spawnerr: can't find command '/usr/sbin/apachectl'
 2023-09-16 11:46:38,737 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-17 05:20:09,911 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-17 05:20:09,913 INFO supervisord started with pid 1
+2023-09-17 05:20:10,915 INFO spawned: 'sshd' with pid 9
+2023-09-17 05:20:10,916 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 05:20:11,916 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-17 05:20:11,916 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 05:20:13,919 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 05:20:16,923 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 05:20:16,923 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-17 05:42:09,402 WARN received SIGTERM indicating exit request
+2023-09-17 05:42:09,402 INFO waiting for sshd to die
+2023-09-17 05:42:10,404 INFO stopped: sshd (exit status 0)
+2023-09-17 05:56:17,524 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-17 05:56:17,525 INFO supervisord started with pid 1
+2023-09-17 05:56:18,527 INFO spawned: 'sshd' with pid 9
+2023-09-17 05:56:18,527 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 05:56:19,529 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-17 05:56:19,529 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 05:56:21,531 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 05:56:24,535 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 05:56:24,535 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-17 05:57:03,070 WARN received SIGTERM indicating exit request
+2023-09-17 05:57:03,070 INFO waiting for sshd to die
+2023-09-17 05:57:04,071 INFO stopped: sshd (exit status 0)
+2023-09-17 06:03:35,648 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-17 06:03:35,650 INFO supervisord started with pid 1
+2023-09-17 06:03:36,652 INFO spawned: 'sshd' with pid 9
+2023-09-17 06:03:36,653 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:03:37,654 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-17 06:03:37,654 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:03:39,656 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:03:42,660 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:03:42,660 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-17 06:10:39,897 WARN received SIGTERM indicating exit request
+2023-09-17 06:10:39,898 INFO waiting for sshd to die
+2023-09-17 06:10:40,900 INFO stopped: sshd (exit status 0)
+2023-09-17 06:15:52,742 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-17 06:15:52,743 INFO supervisord started with pid 1
+2023-09-17 06:15:53,745 INFO spawned: 'sshd' with pid 9
+2023-09-17 06:15:53,746 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:15:54,747 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-17 06:15:54,747 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:15:56,750 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:15:59,753 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:15:59,754 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-17 06:18:37,698 WARN received SIGTERM indicating exit request
+2023-09-17 06:18:37,698 INFO waiting for sshd to die
+2023-09-17 06:18:38,701 INFO stopped: sshd (exit status 0)
+2023-09-17 06:23:07,745 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-17 06:23:07,749 INFO supervisord started with pid 1
+2023-09-17 06:23:08,750 INFO spawned: 'sshd' with pid 9
+2023-09-17 06:23:08,751 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:23:09,752 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-17 06:23:09,752 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:23:11,755 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:23:14,758 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-17 06:23:14,759 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-17 06:24:45,513 WARN received SIGTERM indicating exit request
+2023-09-17 06:24:45,514 INFO waiting for sshd to die
+2023-09-17 06:24:46,515 INFO stopped: sshd (exit status 0)
+2023-09-18 10:11:44,300 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-18 10:11:44,302 INFO supervisord started with pid 1
+2023-09-18 10:11:45,304 INFO spawned: 'sshd' with pid 8
+2023-09-18 10:11:45,304 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:11:46,305 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-18 10:11:46,305 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:11:48,308 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:11:51,311 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:11:51,311 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-18 10:24:37,641 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-18 10:24:37,657 INFO supervisord started with pid 1
+2023-09-18 10:24:38,659 INFO spawned: 'sshd' with pid 8
+2023-09-18 10:24:38,660 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:24:39,661 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-18 10:24:39,661 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:24:41,664 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:24:44,667 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:24:44,667 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
+2023-09-18 10:25:24,151 WARN received SIGTERM indicating exit request
+2023-09-18 10:25:24,151 INFO waiting for sshd to die
+2023-09-18 10:25:25,154 INFO stopped: sshd (exit status 0)
+2023-09-18 10:30:21,046 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-18 10:30:21,048 INFO supervisord started with pid 1
+2023-09-18 10:30:22,050 INFO spawned: 'sshd' with pid 10
+2023-09-18 10:30:22,050 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:30:23,052 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-18 10:30:23,052 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:30:25,054 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:30:28,058 INFO spawnerr: can't find command '/usr/sbin/apachectl'
+2023-09-18 10:30:28,058 INFO gave up: apache2 entered FATAL state, too many start retries too quickly
