@@ -1,0 +1,21 @@
+2023-09-18 10:30:21,760 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-18 10:30:21,761 INFO supervisord started with pid 1
+2023-09-18 10:30:22,763 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 10:30:23,764 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 10:30:25,767 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 10:30:28,770 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 10:30:28,770 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2023-09-18 11:01:57,879 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-18 11:01:57,881 INFO supervisord started with pid 1
+2023-09-18 11:01:58,895 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 11:01:59,896 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 11:02:01,899 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 11:02:04,902 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 11:02:04,902 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2023-09-18 11:12:02,709 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-09-18 11:12:02,711 INFO supervisord started with pid 1
+2023-09-18 11:12:03,725 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 11:12:04,726 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 11:12:06,728 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 11:12:09,731 INFO spawnerr: can't find command '/usr/sbin/sshd'
+2023-09-18 11:12:09,731 INFO gave up: sshd entered FATAL state, too many start retries too quickly
